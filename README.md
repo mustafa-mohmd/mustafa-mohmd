@@ -10,7 +10,7 @@ Currently focused on Artificial Intelligence, Machine Learning, LLMs, and Backen
 ## 🌐 Connect With Me
 
 - 📧 Email: mustafamohd3292@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mustafa-mohmd/
+- 💼 LinkedIn: https://wwww.linkedin.com/in/mustafa-mohmd/
 
 ---
 
