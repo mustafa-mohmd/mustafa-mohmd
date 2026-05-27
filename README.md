@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 Passionate ML Engineer & Full-Stack AI Developer focused on building intelligent systems, scalable backend architectures, and AI-powered applications.  
-Currently exploring Deep Learning, LLM Engineering, Computer Vision, Cloud Computing, and modern Web Technologies.
+Currently exploring Deep Learning, LLM Engineering, Computer Vision, Cloud Computing, and Web Technologies.
 
 - 🔭 Building AI-powered applications & intelligent automation systems
 - 🤖 Interested in Generative AI, Transformers, and Local LLM Deployment
