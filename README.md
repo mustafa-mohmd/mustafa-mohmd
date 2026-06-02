@@ -11,7 +11,6 @@
 
 ### `AI Engineer` · `LLM Builder` · `Full-Stack Developer`
 
-*B.Tech CSE (AI & ML) · Vardhaman College of Engineering · Hyderabad*
 
 [![Email](https://img.shields.io/badge/mustafamohd3292@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mustafamohd3292@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/mustafa--mohmd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-mohmd)
