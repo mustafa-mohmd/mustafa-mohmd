@@ -57,8 +57,8 @@ ML Engineer & Full-Stack AI Developer
 <tr>
 <td width="50%">
 
-### 🤖 [LocalLLM](https://github.com/mustafa-mohmd/LocalLLM)
-**Local AI Assistant · Gemma-3 · GGUF**
+### 🤖 [LocalLLM](https://github.com/mustafa-mohmd/TinyLocalLLM)
+**Tiny Local AI Assistant · Gemma-3 · GGUF**
 
 Modular LLM chat app running Gemma-3-4B fully offline. Custom chat engine, persistent memory manager, context-window control, and full demo walkthrough.
 
